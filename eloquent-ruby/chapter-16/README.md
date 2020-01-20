@@ -2,7 +2,7 @@
 
 Mixins allow you to easily share common code among otherwise unrelated classes.
 
-## instance methods
+## instance methods / include
 
 All methods the module become **instance** methods:
 
@@ -26,7 +26,7 @@ doc = Document.new
 doc.number_of_cliches
 ```
 
-## class methods
+## class methods / extend
 
 All methods from the module become **class** methods. This code include the module into the singleton class:
 
@@ -51,6 +51,3 @@ war_and_peace = Document.find_by_name('War And Peace')
 ```
 
 Alias for doing that is **extend**.
-
-
-
