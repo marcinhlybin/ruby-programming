@@ -29,3 +29,4 @@
 
 - Chapter 20: Use hooks to keep your program informed
 - Chapter 21: Use method_missing for flexible error handling
+- Chapter 22: Use method_missing for delegation
