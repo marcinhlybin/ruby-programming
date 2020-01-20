@@ -32,3 +32,4 @@
 - Chapter 22: Use method_missing for delegation
 - Chapter 23: Use method_missing to build flexible APIs
 - Chapter 24: Update existing classes with monkey patching
+- Chapter 25: Create self-modifying classes
