@@ -38,3 +38,4 @@
 ## PART IV: Pulling it all together
 
 - Chapter 27: Invent internal DSL
+- Chapter 28: Build external DSLs for flexible syntax
