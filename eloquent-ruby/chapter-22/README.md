@@ -40,3 +40,10 @@ class DocumentWrapper < SimpleDelegator
   end
 end
 ```
+
+```
+text =  'The Hare was once boasting of his speed...'
+real_doc = Document.new( 'Hare & Tortoise', 'Aesop', text )
+
+wrapper_doc = DocumentWrapper.new( real_doc )
+```
