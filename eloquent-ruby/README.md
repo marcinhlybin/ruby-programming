@@ -34,3 +34,7 @@
 - Chapter 24: Update existing classes with monkey patching
 - Chapter 25: Create self-modifying classes
 - Chapter 26: Create classes that modify their subclasses
+
+## PART IV: Pulling it all together
+
+- Chapter 27: Invent internal DSL
