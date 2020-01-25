@@ -2,3 +2,7 @@
 
 - Chapter 01: Building better programs with patterns
 - Chapter 02: Getting started with Ruby
+
+# PART II: Patterns in Ruby
+
+- Chapter 03: Varying the algorithm with the template method
