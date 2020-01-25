@@ -6,3 +6,4 @@
 # PART II: Patterns in Ruby
 
 - Chapter 03: Varying the algorithm with the template method
+- Chapter 04: Replacing the algorithm with the strategy
