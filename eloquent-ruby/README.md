@@ -16,7 +16,7 @@
 
 - Chapter 10: Construct your classes from short, focused methods
 - Chapter 11: Define Operators Respectfully
-- Chapter 12: Create classes that undertand equality
+- Chapter 12: Create classes that understand equality
 - Chapter 13: Get the behavior you need with singleton and class methods
 - Chapter 14: Use class instance variables
 - Chapter 15: Use modules as name spaces
