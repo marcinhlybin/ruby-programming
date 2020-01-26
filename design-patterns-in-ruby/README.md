@@ -9,3 +9,4 @@
 - Chapter 04: Replacing the algorithm with the Strategy
 - Chapter 05: Keeping up with the times with the Observer
 - Chapter 06: Assembling the whole from the parts with the Composite
+- Chapter 07: Reaching into a collection with the Iterator
