@@ -5,5 +5,6 @@
 
 # PART II: Patterns in Ruby
 
-- Chapter 03: Varying the algorithm with the template method
-- Chapter 04: Replacing the algorithm with the strategy
+- Chapter 03: Varying the algorithm with the Template method
+- Chapter 04: Replacing the algorithm with the Strategy
+- Chapter 05: Keeping up with the times with the Observer
