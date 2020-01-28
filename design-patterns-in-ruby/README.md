@@ -11,3 +11,4 @@
 - Chapter 06: Assembling the whole from the parts with the Composite
 - Chapter 07: Reaching into a collection with the Iterator
 - Chapter 08: Getting things done with Commands
+- Chapter 09: Filling in the gaps with the Adapter
