@@ -10,3 +10,4 @@
 - Chapter 05: Keeping up with the times with the Observer
 - Chapter 06: Assembling the whole from the parts with the Composite
 - Chapter 07: Reaching into a collection with the Iterator
+- Chapter 08: Getting things done with Commands
