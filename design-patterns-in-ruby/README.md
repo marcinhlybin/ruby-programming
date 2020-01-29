@@ -12,3 +12,4 @@
 - Chapter 07: Reaching into a collection with the Iterator
 - Chapter 08: Getting things done with Commands
 - Chapter 09: Filling in the gaps with the Adapter
+- Chapter 10: Getting in front of your object with a Proxy
