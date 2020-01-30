@@ -13,3 +13,4 @@
 - Chapter 08: Getting things done with Commands
 - Chapter 09: Filling in the gaps with the Adapter
 - Chapter 10: Getting in front of your object with a Proxy
+- Chapter 11: Improving your objects with a Decorator
