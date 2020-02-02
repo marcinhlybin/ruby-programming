@@ -23,3 +23,4 @@
 
 - Chapter 16: Opening up your system with Domain-Specific Languages
 - Chapter 17: Creating custom objects with Meta-programming
+- Chapter 18: Convention over configuration
