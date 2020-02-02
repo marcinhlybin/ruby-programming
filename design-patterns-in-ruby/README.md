@@ -16,3 +16,4 @@
 - Chapter 11: Improving your objects with a Decorator
 - Chapter 12: Making sure there is only one with the Singleton
 - Chapter 13: Picking the right class with a Factory
+- Chapter 14: Easier object construction with the Builder
