@@ -15,3 +15,4 @@
 - Chapter 10: Getting in front of your object with a Proxy
 - Chapter 11: Improving your objects with a Decorator
 - Chapter 12: Making sure there is only one with the Singleton
+- Chapter 13: Picking the right class with a Factory
